@@ -1,0 +1,21 @@
+﻿JobID,Job Title,Company,Recruiter,Industry,SalaryMin,SalaryMax,SalaryPeriod,ContractType,ContractLength (Months),Location,Remote,Office Days,Source,PostedOn,Link
+1,Data Analyst,Formula Recruitment,TRUE,E-Commerce,50000,60000,Annual,Permanent,,London,Hybrid,2,LinkedIn,Feb-25,https://www.linkedin.com/jobs/view/4138915701/
+2,Data Analyst,Henderson Scott,TRUE,,,35000,Annual,,,Birmingham ,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4102961924/
+3,Data Analyst,Intellect Group,FALSE,HR,50000,65000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4091845633/
+4,Data Analyst,Mane Contract Services,TRUE,,20.18,26.61,Hourly,Contract,,Woking,No,,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4121347750/
+5,Data Analyst,Netwrix Corporation,FALSE,,50000,120000,Annual,,,,Yes,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4058441140/
+6,Data Analyst,Opus Recruitment Solutions,TRUE,Finance,35000,40000,Annual,,,London,No,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4105412866/
+7,Data Analyst,Opus Recruitment Solutions,TRUE,,50000,60000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4088718767/
+8,Data Analyst,Premier Group,TRUE,Sales,35000,40000,Annual,,,Woking,Hybrid,,LinkedIn,Feb-25,https://www.linkedin.com/jobs/view/4147798572/
+9,Data Analyst,Premier Group,TRUE,Software,50000,60000,Annual,,,Winchester,Hybrid,2,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4132268652/
+10,Data Analyst,RED10,TRUE,Finance,,50000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4075485689/
+11,Data Analyst,Robert Walters,TRUE,Conglomerate,30000,40000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4096153840/
+12,Data Analyst,Saragossa,TRUE,Finance,,90000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4090316056/
+13,Data Analyst,Simpson Judge,TRUE,Logistics,50000,60000,Annual,Permanent,,,Yes,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4074215245/
+14,Data Analyst,Spencer Scott,TRUE,Energy,40000,50000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4103684748/
+15,Data Analyst - Subscriptions,Evermore,TRUE,Software,50000,70000,Annual,Permanent,,London,No,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4061889848/
+16,Data Analyst,The Graduate Project,TRUE,,28000,31000,Annual,Permanent,,London,No,,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4113638252/
+17,Data Analyst,Understanding Recruitment,TRUE,Energy,60000,70000,Annual,Permanent,,London,Hybrid,2,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4084770630/
+18,Data Analyst,ECW Search,TRUE,Manufacturing,33000,35000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4103699917/
+19,Data Analyst Specialist,Datatech Analytics,TRUE,Consulting,45000,60000,Annual,Permanent,,London,Hybrid,3,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4102040051/
+20,,,,,,,,,,,,,,,
