@@ -1,21 +1,42 @@
-﻿JobID,Job Title,Company,Recruiter,Industry,SalaryMin,SalaryMax,SalaryPeriod,ContractType,ContractLength (Months),Location,Remote,Office Days,Source,PostedOn,Link
-1,Data Analyst,Formula Recruitment,TRUE,E-Commerce,50000,60000,Annual,Permanent,,London,Hybrid,2,LinkedIn,Feb-25,https://www.linkedin.com/jobs/view/4138915701/
-2,Data Analyst,Henderson Scott,TRUE,,,35000,Annual,,,Birmingham ,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4102961924/
-3,Data Analyst,Intellect Group,FALSE,HR,50000,65000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4091845633/
-4,Data Analyst,Mane Contract Services,TRUE,,20.18,26.61,Hourly,Contract,,Woking,No,,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4121347750/
-5,Data Analyst,Netwrix Corporation,FALSE,,50000,120000,Annual,,,,Yes,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4058441140/
-6,Data Analyst,Opus Recruitment Solutions,TRUE,Finance,35000,40000,Annual,,,London,No,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4105412866/
-7,Data Analyst,Opus Recruitment Solutions,TRUE,,50000,60000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4088718767/
-8,Data Analyst,Premier Group,TRUE,Sales,35000,40000,Annual,,,Woking,Hybrid,,LinkedIn,Feb-25,https://www.linkedin.com/jobs/view/4147798572/
-9,Data Analyst,Premier Group,TRUE,Software,50000,60000,Annual,,,Winchester,Hybrid,2,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4132268652/
-10,Data Analyst,RED10,TRUE,Finance,,50000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4075485689/
-11,Data Analyst,Robert Walters,TRUE,Conglomerate,30000,40000,Annual,,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4096153840/
-12,Data Analyst,Saragossa,TRUE,Finance,,90000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4090316056/
-13,Data Analyst,Simpson Judge,TRUE,Logistics,50000,60000,Annual,Permanent,,,Yes,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4074215245/
-14,Data Analyst,Spencer Scott,TRUE,Energy,40000,50000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4103684748/
-15,Data Analyst - Subscriptions,Evermore,TRUE,Software,50000,70000,Annual,Permanent,,London,No,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4061889848/
-16,Data Analyst,The Graduate Project,TRUE,,28000,31000,Annual,Permanent,,London,No,,LinkedIn,Jan-25,https://www.linkedin.com/jobs/view/4113638252/
-17,Data Analyst,Understanding Recruitment,TRUE,Energy,60000,70000,Annual,Permanent,,London,Hybrid,2,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4084770630/
-18,Data Analyst,ECW Search,TRUE,Manufacturing,33000,35000,Annual,Permanent,,London,Hybrid,,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4103699917/
-19,Data Analyst Specialist,Datatech Analytics,TRUE,Consulting,45000,60000,Annual,Permanent,,London,Hybrid,3,LinkedIn,Dec-24,https://www.linkedin.com/jobs/view/4102040051/
-20,,,,,,,,,,,,,,,
+﻿JobID,Job Title,Company,Recruiter,Industry,SalaryMin,SalaryMax,SalaryPeriod,ContractType,ContractLength (Months),Location,Remote,Office Days,PostedOn,Link
+1,Data Analyst,Formula Recruitment,TRUE,E-Commerce,50000,60000,Annual,Permanent,,London,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4138915701/
+2,Data Analyst,Henderson Scott,TRUE,,,35000,Annual,,,Birmingham ,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4102961924/
+3,Data Analyst,Intellect Group,FALSE,HR,50000,65000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4091845633/
+4,Data Analyst,Mane Contract Services,TRUE,,20.18,26.61,Hourly,Contract,,Woking,No,,Jan-25,https://www.linkedin.com/jobs/view/4121347750/
+5,Data Analyst,Netwrix Corporation,FALSE,,50000,120000,Annual,,,,Yes,,Dec-24,https://www.linkedin.com/jobs/view/4058441140/
+6,Data Analyst,Opus Recruitment Solutions,TRUE,Finance,35000,40000,Annual,,,London,No,,Dec-24,https://www.linkedin.com/jobs/view/4105412866/
+7,Data Analyst,Opus Recruitment Solutions,TRUE,,50000,60000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4088718767/
+8,Data Analyst,Premier Group,TRUE,Sales,35000,40000,Annual,,,Woking,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4147798572/
+9,Data Analyst,Premier Group,TRUE,Technology,50000,60000,Annual,,,Winchester,Hybrid,2,Jan-25,https://www.linkedin.com/jobs/view/4132268652/
+10,Data Analyst,RED10,TRUE,Finance,,50000,Annual,Permanent,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4075485689/
+11,Data Analyst,Robert Walters,TRUE,Conglomerate,30000,40000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4096153840/
+12,Data Analyst,Saragossa,TRUE,Finance,,90000,Annual,Permanent,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4090316056/
+13,Data Analyst,Simpson Judge,TRUE,Logistics,50000,60000,Annual,Permanent,,,Yes,,Dec-24,https://www.linkedin.com/jobs/view/4074215245/
+14,Data Analyst,Spencer Scott,TRUE,Energy,40000,50000,Annual,Permanent,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4103684748/
+15,Data Analyst - Subscriptions,Evermore,TRUE,Technology,50000,70000,Annual,Permanent,,London,No,,Dec-24,https://www.linkedin.com/jobs/view/4061889848/
+16,Data Analyst,The Graduate Project,TRUE,,28000,31000,Annual,Permanent,,London,No,,Jan-25,https://www.linkedin.com/jobs/view/4113638252/
+17,Data Analyst,Understanding Recruitment,TRUE,Energy,60000,70000,Annual,Permanent,,London,Hybrid,2,Dec-24,https://www.linkedin.com/jobs/view/4084770630/
+18,Data Analyst,ECW Search,TRUE,Manufacturing,33000,35000,Annual,Permanent,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4103699917/
+19,Data Analyst Specialist,Datatech Analytics,TRUE,Consulting,45000,60000,Annual,Permanent,,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4102040051/
+20,Data Scientist - Analytics – Integrity,Principle,FALSE,Technology,115000,125000,Annual,Contract,12 Months,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4145040406/
+21,Data Scientist,B&Q,FALSE,,55000,,Annual,,,Southhampton,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4059223049/
+22,Lead Data Scientist,GradBay,TRUE,,,90000,Annual,,,Bristol,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4105037016/
+23,Data Scientist,Harnham,TRUE,Finance,70000,90000,Annual,,,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4085708057/
+24,Data Scientist,Sirius Digital Services,FALSE,Technology,40000,,Annual,,,London,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4116545355/
+25,Senior Data Scientist,Smart Spaces,FALSE,Technology,75000,90000,Annual,,,London,Hybrid,3,Nov-24,https://www.linkedin.com/jobs/view/4081829787/
+26,Data Scientist,Xcede,TRUE,,50000,65000,Annual,,,Surrey,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4119226745/
+27,Junior Data Analyst,Intellect Group,TRUE,Consulting,35000,45000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4090804208/
+28,Junior Data Analyst,Xpertise Recruitment,TRUE,Finance,,350,Daily,Contract,6 Months,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4096529504/
+29,Junior Data & Insight Analyst,adam&eveDDB,FALSE,Advertising,,30000,Annual,,,London,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4139331072/
+30,Senior Data Analyst ,Amnesty International UK,FALSE,Voluntary,,56700,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4104814432/
+31,Senior Data Analyst ,developrec,TRUE,,60000,70000,Annual,,,London,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4130607522/
+32,Senior Data Analyst ,FDM Group,TRUE,Finance,60000,70000,Annual,,,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4102993085/
+33,Senior Data Analyst ,Fruition IT,TRUE,Finance,50000,60000,Annual,,,London,Hybrid,1,Dec-24,https://www.linkedin.com/jobs/view/4088127217/
+34,Senior Data Analyst ,Harnham,TRUE,Media,40000,50000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4103362120/
+35,Senior Data Analyst ,Hippo,FALSE,Technology,57000,81000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4106737402/
+36,Senior Data Analyst ,Maxwell Bond,TRUE,,65000,75000,Annual,,,London,On-site,,Dec-24,https://www.linkedin.com/jobs/view/4084137890/
+37,Senior Data Analyst - MMM,Silverdrum,TRUE,Marketing,45000,50000,Annual,,,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4106855308/
+38,Senior Data Analyst ,Oscar,TRUE,Finance,60000,70000,Annual,,,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4087097791/
+39,Senior Data Analyst - Customer Data ,Talent Hub,TRUE,,45000,50000,Annual,,,London,Hybrid,2,Dec-24,https://www.linkedin.com/jobs/view/4118718116/
+40,Senior Data Analyst ,UK Home Office,FALSE,Government,,48700,Annual,,,Croydon,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4144112446/
+41,Senior Data Analyst - Tableau,Harnham,TRUE,,55000,60000,Annual,,,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4096163003/
