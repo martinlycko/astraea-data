@@ -78,41 +78,67 @@
 77,Senior Data Science Manager - Core,Monzo Bank,FALSE,Finance,110000,130000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4065991809/
 78,Senior Data Scientist - Loyalty,Data Idols,TRUE,Retail,80000,90000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4086462507/
 79,Senior Decision Scientist,Monzo Bank,FALSE,Finance,70000,100000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4086257871/
-80,Senior Provisioning and Forecasting Modeller - Borrowing,Monzo Bank,,,,,,,,,,,,
-81,Data Insights Analytics ,Intec Select,,,,,,,,,,,,
-82,Data Intelligence and Insights Specialist,Lloyds Banking Group,,,,,,,,,,,,
-83,Data Operations Senior Analyst,The Openwork Partnership,,,,,,,,,,,,
-84,Data Science Manager - Financial Crime,Monzo Bank,,,,,,,,,,,,
-85,Digital Analytics Consultant,Harnham,,,,,,,,,,,,
-86,Senior Quantitative Analyst,GSC Quant,,,,,,,,,,,,
-87,Senior Quantitative Analyst (Sports),Source Technology,,,,,,,,,,,,
-88,Data Architect Engineer Apprenticeship,Ons,,,,,,,,,,,,
-89,Strategic Planning Data Analyst,Loughborough University,,,,,,,,,,,,
-90,Web Analyst,Harnham,,,,,,,,,,,,
-91,Analytics and AI Consultant,Blue Wolf Digital,,,,,,,,,,,,
-92,Analytics Consultant,Media Agency,,,,,,,,,,,,
-93,Analytics Engineer,Harnham,,,,,,,,,,,,
-94,Analytics Engineering Manager,Monzo Bank,,,,,,,,,,,,
-95,Customer Data Analyst,Harnham,,,,,,,,,,,,
-96,Customer Data Analyst,Salt,,,,,,,,,,,,
-97,Customer Data Analyst,Talent Hub,,,,,,,,,,,,
-98,Customer Insights Analyst - SaaS,Principle,,,,,,,,,,,,
-99,Machine Leaning Manager - Operations,Monzo Bank,,,,,,,,,,,,
-100,Hedge Fund Operations and Data Visualisation Analyst,Martis Search,,,,,,,,,,,,
-101,Investment Data Analyst,Harnham,,,,,,,,,,,,
-102,Quantitative Researcher,Aquatic Capital Management,,,,,,,,,,,,
-103,Quantitative Researcher,IntelixAI,,,,,,,,,,,,
-104,Quantitative Analyst,Spectrum IT Recruitment,,,,,,,,,,,,
-105,Quantitative Analyst,Understanding Recruitment,,,,,,,,,,,,
-106,Researcher,Walsh Employment,,,,,,,,,,,,
-107,Quantitative Analyst (Sports),Source Technology,,,,,,,,,,,,
-108,Quantitative Researcher,Anson McCade,,,,,,,,,,,,
-109,Behavioural Insights Lead,Maximus UK,,,,,,,,,,,,
-110,Marketing Effectiveness Senior Consultant - Econometrics,,,,,,,,,,,,,
-111,Pricing Analyst,The AA,,,,,,,,,,,,
-112,Provisioning and Forecasting Modeller - Borrowing,Monzo Bank,,,,,,,,,,,,
-113,Product Analyst Data Analyst,RedCar Digital,,,,,,,,,,,,
-114,Product Analyst,Burns Sheehan,,,,,,,,,,,,
-115,Senior Product Analyst - Data Enrichment,Sarayi,,,,,,,,,,,,
-116,Senior Product Data Analyst,Consortia,,,,,,,,,,,,
-117,Senior Cancer Data Insights Analyst,Macmillan,,,,,,,,,,,,
+80,Senior Provisioning and Forecasting Modeller - Borrowing,Monzo Bank,FALSE,Finance,55000,95000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4074851615/
+81,Data Insights Analyst - Diversity Data Analyst ,Intec Select,TRUE,,,300,Daily,Contract,6 Months,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4104200772/
+82,Data Intelligence and Insights Specialist,Lloyds Banking Group,FALSE,Finance,42000,50000,Annual,,,Birmingham,Hybrid,2,Dec-24,https://www.linkedin.com/jobs/view/4105700025/
+83,Data Operations Senior Analyst,The Openwork Partnership,FALSE,Finance,40000,50000,Annual,,,London,Hybrid,2,Dec-24,https://www.linkedin.com/jobs/view/4089964006/
+84,Data Science Manager - Financial Crime,Monzo Bank,FALSE,Finance,100000,115000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4068450505/
+85,Digital Analytics Consultant,Harnham,TRUE,,65000,75000,Annual,,,United Kingdom,Remote,,Nov-24,https://www.linkedin.com/jobs/view/3976887320/
+86,Senior Quantitative Analyst,GSC Quant,TRUE,Finance,125000,150000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4096389966/
+87,Senior Quantitative Analyst - Sports,Source Technology,TRUE,Sports,90000,120000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4088239558/
+88,Data Architect/Engineer Apprenticeship,Office for National Statistics,FALSE,Government,,27252,Annual,Contract,24 Months,Fareham,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4104170538/
+89,Strategic Planning Data Analyst,Loughborough University,FALSE,Academia,34900,42500,Annual,Contract,12 Months,Loughborough,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4098423720/
+90,Web Analyst,Harnham,TRUE,Retail,45000,60000,Annual,Contract,12 Months,Wallingford,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4132391462/
+91,Analytics and AI Consultant - Power BI & Python,Blue Wolf Digital,TRUE,Consulting,45000,60000,Annual,,,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4094678475/
+92,Analytics Consultant - Marketing Mix Modelling,Silverdrum,TRUE,Media,55000,60000,Annual,,,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4102708491/
+93,Analytics Engineer,Harnham,TRUE,Research,55000,75000,Annual,,,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4104815684/
+94,Analytics Engineering Manager - Borrowing,Monzo Bank,FALSE,Finance,92500,125000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4146989385/
+95,Customer Data Analyst,Harnham,TRUE,Retail,30000,40000,Annual,Contract,12 Months,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4097011516/
+96,Customer Data Analyst,Salt,TRUE,Retail,55000,52000,Annual,,,London,Hybrid,2,Jan-25,https://www.linkedin.com/jobs/view/4119540745/
+97,Customer Data Analyst,Talent Hub,TRUE,,40000,50000,Annual,,,Brighton,Hybrid,2,Dec-24,https://www.linkedin.com/jobs/view/4091483246/
+98,Customer Insights Analyst - SaaS,Principle,TRUE,Technology,40000,46000,Annual,Contract,11 Months,London,Hybrid,3,Dec-24,https://www.linkedin.com/jobs/view/4101153927/
+99,Machine Leaning Manager - Operations,Monzo Bank,FALSE,Finance,115000,130000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4142827610/
+100,Hedge Fund Operations and Data Visualisation Analyst,Martis Search,TRUE,Finance,40000,70000,Annual,,,London,Hybrid,,Jan-25,https://www.linkedin.com/jobs/view/4119734542/
+101,Investment Data Analyst,Harnham,TRUE,Finance,90000,120000,Annual,,,London,On-site,,Dec-24,https://www.linkedin.com/jobs/view/4093835797/
+102,Quantitative Researcher,Aquatic Capital Management,FALSE,Finance,120000,160000,Annual,,,London,On-site,,Nov-24,https://www.linkedin.com/jobs/view/4079660775/
+103,Senior Quantitative Developer/Engineer,IntelixAI,TRUE,Finance,100000,175000,Annual,,,London,On-site,,Feb-25,https://www.linkedin.com/jobs/view/4102554980/
+104,Quantitative Analyst,Spectrum IT Recruitment,TRUE,Finance,60000,80000,Annual,,,London,On-site,,Dec-24,https://www.linkedin.com/jobs/view/4097321508/
+105,Quantitative Analyst,Understanding Recruitment,TRUE,Sports,60000,80000,Annual,,,St Albans,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4141105228/
+106,Principal Researcher,Walsh Employment,TRUE,Research,60000,64000,Annual,,,Slough,On-site,,Dec-24,https://www.linkedin.com/jobs/view/4092575611/
+107,Quantitative Analyst - Sports,Source Technology,TRUE,Sports,35000,60000,Annual,,,London,Hybrid,,Dec-24,https://www.linkedin.com/jobs/view/4088239653/
+108,Quantitative Researcher,Anson McCade,TRUE,Finance,110000,120000,Annual,,,London,On-site,,Nov-24,https://www.linkedin.com/jobs/view/4084136752/
+109,Behavioural Insights Lead,Maximus UK,FALSE,Healthcare,42000,47000,Annual,Contract,12 Months,United Kingdom,Remote,,Jan-25,https://www.linkedin.com/jobs/view/4126134521/
+110,Marketing Effectiveness Senior Consultant - Econometrics,Silverdrum,TRUE,Marketing,60000,70000,Annual,,,London,Hybrid,3,Feb-25,https://www.linkedin.com/jobs/view/4144119350/
+111,Pricing Analyst,The AA,FALSE,Retail,,45000,Annual,Permanent,,Basingstoke,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4139943493/
+112,Provisioning and Forecasting Lead - Borrowing,Monzo Bank,FALSE,Finance,92500,125000,Annual,,,London,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4074290696/
+113,Product Analyst,RedCar Digital,TRUE,Finance,50000,60000,Annual,,,London,Hybrid,3,Nov-24,https://www.linkedin.com/jobs/view/4087254034/
+114,Product Analyst,Burns Sheehan,TRUE,Finance,50000,70000,Annual,,,London,Hybrid,1,Nov-24,https://www.linkedin.com/jobs/view/4080035511/
+115,Senior Product Analyst - Data Enrichment,Sarayi,FALSE,Technology,95000,110000,Annual,,,London,Remote,,Jan-25,https://www.linkedin.com/jobs/view/4093149571/
+116,Senior Data Analyst,Consortia,TRUE,Finance,75000,90000,Annual,,,London,Remote,,Jan-25,https://www.linkedin.com/jobs/view/4106709828/
+117,Senior Cancer Data Insights Analyst,Macmillan,FALSE,Voluntary,45000,50500,Annual,,,London,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4102938658/
+118,Supply Chain Data Analyst,Nixor,TRUE,Manufacturing,,220,Daily,Contract,12 Months,England,Remote,,Dec-24,https://www.linkedin.com/jobs/view/4101174928/
+119,Business Intelligence Analyst,In Technology Group,TRUE,Voluntary,45000,55000,Annual,,,Farnborough,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4168481328/
+120,Analytics Consultant - Trade,83data,TRUE,Media,60000,65000,Annual,,,United Kingdom,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4158226534/
+121,PowerBI Developer,Quant Capital,TRUE,Technology,55000,60000,Annual,,,London,Hybrid,1,Feb-25,https://www.linkedin.com/jobs/view/4165411518/
+122,Lead BI Analyst,Oliver Bernard,TRUE,Technology,70000,75000,Annual,,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4165477641/
+123,Data Analyst Team Lead,Allianz UK,FALSE,Finace,,54000,Annual,,,Guildford,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4169908910/
+124,Business Intelligence Consultant,83data,TRUE,Healthcare,,60000,Annual,,,United Kingdom,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4141994390/
+125,Senior Insights Analyst - SEND,Venn Group,TRUE,Government,,500,Daily,Contract,6 Months,East of England,Hybrid,1,Feb-25,https://www.linkedin.com/jobs/view/4150624647/
+126,BI and Marketing Analyst,Harnham,TRUE,Healthcare,50000,60000,Annual,,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4158735847/
+127,Senior Business Intelligence Analyst,Notting Hill Genesis,FALSE,Voluntary,50800,56300,Annual,Contract,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4153158245/
+128,Senior Digital Product Analyst,Harnham,TRUE,Academia,,65000,Annual,,,London,Hybrid,2,Feb-25,https://www.linkedin.com/jobs/view/4151604276/
+129,Senior Data Consultant - Data Excellence,Intuita,FALSE,Consulting,45000,65000,Annual,,,England,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4153179122/
+130,Analytics Business Lecturer,William College,FALSE,Academia,35000,55000,Annual,,,London,On-site,,Feb-25,https://www.linkedin.com/jobs/view/4147172306/
+131,Commercial Analyst,Propel,TRUE,Healthcare,45000,50000,Annual,,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4153152729/
+132,Senior/Lead Data Analyst - Growth,Quest Search and Selection,TRUE,Retail,60000,85000,Annual,,,London,Hybrid,3,Feb-25,https://www.linkedin.com/jobs/view/4160751103/
+133,Senior Data Analyst,Age UK,FALSE,Voluntary,48400,53600,Annual,,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4161937012/
+134,Lead Data Analyst,UK Home Office,FALSE,Government,,60300,Annual,,,London,Hybrid,3,Feb-25,https://www.linkedin.com/jobs/view/4153246738/
+135,Principal Data Analyst,UK Home Office,FALSE,Government,,63900,Annual,,,London,Hybrid,3,Feb-25,https://www.linkedin.com/jobs/view/4153245852/
+136,Data Scientist,Cochrane,FALSE,Research,,55000,Annual,Permanent,,United Kingdom,Remote,,Feb-25,https://www.linkedin.com/jobs/view/4138912834/
+137,Route Performance Analyst,Network Rail,FALSE,Transportation,35582,40367,Annual,Permanent,,Basingstoke,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4157671848/
+138,Lead Performance Analyst,Pension Protection Fund,FALSE,Government,55000,60000,Annual,Permanent,,Croydon,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4157789551/
+139,Senior Business Analyst,Local Government Association,FALSE,Government,48710,52894,Annual,Contract,12 Months,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4145079689/
+140,Senior Data Analyst,BBC,FALSE,Media,47500,57500,Annual,Contract,12 Months,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4164152182/
+141,Automation and Analytics Team Lead,BBC,FALSE,Media,,72000,Annual,Permanent,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4155442399/
+142,Senior AI Specialist,Jisc,FALSE,Academia,43000,,Annual,Permanent,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4143187368/
+143,Senior Data Analyst,Humand Talent,TRUE,,70000,100000,Annual,Permanent,,London,Hybrid,,Feb-25,https://www.linkedin.com/jobs/view/4117175290/
